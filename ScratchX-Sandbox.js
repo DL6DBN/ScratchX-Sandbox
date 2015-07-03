@@ -40,5 +40,5 @@ new (function() {
     };
 
     // Register the extension
-    ScratchExtensions.register('Alarm extension', descriptor, ext);
+    ScratchExtensions.register('6DBN extension', descriptor, ext);
 })();
